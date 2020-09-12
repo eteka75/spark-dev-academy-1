@@ -1,0 +1,38 @@
+.bd-placeholder-img {
+	
+	font-size: 1.125rem;
+	text-anchor: middle;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+  }
+  .article .bd-placeholder-img{
+	width: 200px;
+	height: 250px;
+  }
+
+  #info{
+	  margin-top:-50px;
+	  
+  }
+
+
+  .bloc-img {
+	  width: 100%;
+	  height: 300px;
+	  background-image: url("../img/carousel2.png");
+	  background-size: cover;
+	  text-align: center;
+	  text-shadow: 1px 4px indigo;
+  }
+
+  .carousel-inner .carousel-item>img{
+	max-height:300px;
+	width:100%;
+  }
+  @media (min-width: 768px) {
+	.bd-placeholder-img-lg {
+	  font-size: 3.5rem;
+	}
+  }

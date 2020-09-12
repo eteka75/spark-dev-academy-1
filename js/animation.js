@@ -1,0 +1,12 @@
+$('#myCarousel').onClick(alert("Ok"));
+
+
+
+
+
+
+
+
+
+
+
